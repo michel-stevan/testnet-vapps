@@ -1,15 +1,15 @@
-# vApp Submission: DeFi Wallet Tracker
+# vApp Submission: Wallet Tracker
 
 ## Verification
 ```yaml
-github_username: "ahrabi839"
-discord_id: "844820232353873951"
+github_username: "michel-stevan"
+discord_id: "844823929561546772"
 timestamp: "2025-08-28"
 ```
 ## Developer
-- **Name**: ahrabi839
-- **GitHub**: @ahrabi839
-- **Discord**: ahrabi895
+- **Name**: michel_stevan
+- **GitHub**: michel_stevan
+- **Discord**: michel_stevan
 - **Experience**: Hands-on Web3 contributor. Built small automation tools/bots for testnets and airdrops; familiar with Node.js/JavaScript, ethers.js, simple indexers, and EVM tooling. Recently exploring basic zk-proof flows and integrating them into lightweight dashboards.
 ## Project
 ### Name & Category
@@ -43,7 +43,7 @@ Frontend (React) â†’ Backend API (Node.js) â†’ Soundness Layer (zkProo
 ## Innovation
 zk-proof portfolio claims let users prove â€œwhat they haveâ€ without exposing â€œwho they are.â€ This is safer for airdrop hunters and privacy-focused users while keeping data verifiable.
 ## Contact
-Preferred contact: Telegram @ahrabi839 â€¢ GitHub Issues on the submission repo
+Preferred contact: Telegram @michel_stevan â€¢ GitHub Issues on the submission repo
 **Checklist before submitting:**
 - [x] All fields completed
 - [x] GitHub username matches PR author
